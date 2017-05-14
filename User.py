@@ -30,31 +30,46 @@ tone_analyzer = ToneAnalyzerV3(
 
 
 class Users:
-    def __init__(self, userid):
+    def __init__(self, userid, category):
         self.userid = userid
+        self.category = category
         dotenv_path = join(dirname(__file__), '.env')
         load_dotenv(dotenv_path)
         self.foursq_client = os.environ.get("FOURSQUARE_CLIENT_ID")
         self.foursq_secret = os.environ.get("FOURSQUARE_CLIENT_SECRET")
         self.foursquare_oauth_token = os.environ.get("FOURSQUARE_OAUTH_TOKEN")
-
-        #twitterDataFile.write(simplejson.dumps(simplejson.loads(output), indent=4, sort_keys=True))
-
+        self.dict_of_subcats = {'Food':set(), 'Nightlife':set()}
+        self.list_of_cat_visited = []
+        
+    def eval_user(self):
+        # get the users complete history
+        self.get_venue_history()
+        # get all main and sub categories from Foursquare
+        self.get_all_categories()
+        # filter their venue history based on the desired category
+        self.list_all_cat_visits()        
 
     def get_venue_history(self, download=True):
-        # Set the API request url
+        # hit the api and return a list of venues that a user has visited
+        # note this has to be authorized at an user level not with the api key
+
         url="https://api.foursquare.com/v2/users/self/venuehistory?oauth_token={}&v=20161016".format(self.foursquare_oauth_token)
         results = requests.get(url).json()["response"]['venues']
         if download==True:
             with open('four_square_'+self.userid+'.txt', 'w') as f:
                 f.write(json.dumps(results, indent=2))
-        print(results)
+        self.venue_history = results
+        
 
-    def keep_only_this_category(self):
+    def keep_only_this_category(self, category):
+        # return a list of venueIDs that match one of these categories
+        FOOD = '4d4b7105d754a06374d81259'
+        NIGHTLIFE = '4d4b7105d754a06376d81259'
+        return(list_of_venues)
         pass
 
     def get_all_categories(self):
-                # define URL for categories
+        # define URL for categories
         url = "https://api.foursquare.com/v2/venues/categories?client_id={}&client_secret={}&v={}".format(self.foursq_client, self.foursq_secret, 20170513)
 
         # send call request and get categories
@@ -66,33 +81,33 @@ class Users:
 
         #with open('categories_data.txt') as f:
         #    categories = json.load(f)
-
-        #return categories
-
-        self.set_of_food_cats = set()
+       
         for cat in categories:
-            
-            #print(cat[0])
-            #print(cat['name'])
-            if cat['name'] == 'Food':
+            if cat['shortName'] in self.dict_of_subcats.keys():
                 #return(cat)
                 for subcat in cat['categories']:
-                    #print(subcat)
                     #return(subcat)
                     #print('adding:{}'.format(subcat['id']))
-                    self.set_of_food_cats.add(subcat['id'])
+                    self.dict_of_subcats[cat['shortName']].add(subcat['id'])
 
-        print(self.set_of_food_cats)
-        return(self.set_of_food_cats)
 
-    def list_all_cat_visits(self, category):
-        pass
+    def list_all_cat_visits(self):
+    # loop through every venue in history and return a list of only the venue ID where it mataches
+    # a subcategory in the main category defined in the class creation
+
+
+        for venue in self.venue_history['items']:
+
+            if venue['venue']['categories'][0]['id'] in self.dict_of_subcats[self.category]:
+                self.list_of_cat_visited.append(venue['venue']['id'])
+
 
 
 
 
 
 if __name__ == '__main__':
-    Test = Users('a')
-    Test.get_all_categories()
+    Test = Users('a', 'Food')
+    Test.eval_user()
+    print(Test.list_of_cat_visited)
     #Test.get_venue_history()
