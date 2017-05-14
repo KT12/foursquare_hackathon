@@ -63,6 +63,60 @@ $(document).ready(function(){
   });
 
 
+  $('#find').click(function(){
 
+    mapObj.addMarker({
+      lat: 40.724450,
+      lng: -73.978638,
+      title: "Kafana",
+      infoWindow: {
+          content: '<h4>Pop Pub</h4>',
+          maxWidth: 100
+        }
+    })
+
+    mapObj.addMarker({
+      lat: 40.724950,
+      lng: -73.981333,
+      title: "Gruppo",
+      infoWindow: {
+          content: '<h4>Gruppo</h4>',
+          maxWidth: 100
+        }
+    })
+
+    mapObj.addMarker({
+      lat: 40.728626,
+      lng: -73.980320,
+      title: "Ciao For Now",
+      infoWindow: {
+          content: '<h4>Ciao For Now</h4>',
+          maxWidth: 100
+        }
+    })
+
+
+    mapObj.addMarker({
+      lat: 40.727518,
+      lng: -73.979478,
+      title: "Eleven B",
+      infoWindow: {
+          content: '<h4>Eleven B</h4>',
+          maxWidth: 100
+        }
+    })
+
+    mapObj.addMarker({
+      lat: 40.725237,
+      lng: -73.981347,
+      title: "Housewarmings!",
+      infoWindow: {
+          content: '<h4>Housewarmings!</h4>',
+          maxWidth: 100
+        }
+    })
+
+
+  });
 
 });
