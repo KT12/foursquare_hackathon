@@ -59,10 +59,6 @@ class Venues:
         concat_tips = ' '.join(self.list_of_responses)
         concepts = calc_concepts(concat_tips)
         return concepts
-     
-
-      
-
 
 if __name__ == '__main__':
     T = Venues('40a55d80f964a52020f31ee3')

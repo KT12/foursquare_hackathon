@@ -4,6 +4,7 @@
 
 # -*- coding: utf-8 -*-
 import json
+import time
 from watson_developer_cloud import ToneAnalyzerV3
 import requests
 
@@ -15,6 +16,10 @@ import os
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 # END of python-dotenv section
+
+from watson_scoring import calc_concepts
+from Venues import Venues
+from statistics import median, mean
 
 
 tone_analyzer = ToneAnalyzerV3(
@@ -49,15 +54,19 @@ class Users:
         # filter their venue history based on the desired category
         self.list_all_cat_visits()        
 
-    def get_venue_history(self, download=True):
+    def get_venue_history(self, fromfile=True):
         # hit the api and return a list of venues that a user has visited
         # note this has to be authorized at an user level not with the api key
 
-        url="https://api.foursquare.com/v2/users/self/venuehistory?oauth_token={}&v=20161016".format(self.foursquare_oauth_token)
-        results = requests.get(url).json()["response"]['venues']
-        if download==True:
-            with open('four_square_'+self.userid+'.txt', 'w') as f:
-                f.write(json.dumps(results, indent=2))
+        if fromfile==True:
+            with open('four_square_'+self.userid+'.txt', 'r') as f:
+                results = json.load(f)
+
+        else:
+            url="https://api.foursquare.com/v2/users/self/venuehistory?oauth_token={}&v=20161016".format   (self.foursquare_oauth_token)
+            results = requests.get(url).json()["response"]['venues']
+
+
         self.venue_history = results
         
 
@@ -99,15 +108,68 @@ class Users:
         for venue in self.venue_history['items']:
 
             if venue['venue']['categories'][0]['id'] in self.dict_of_subcats[self.category]:
+                print('here')
                 self.list_of_cat_visited.append(venue['venue']['id'])
 
+    def concepts_for_all_relevant_visits(self):
+        dict_of_relevant_visits = dict()
+        
+        for v in self.list_of_cat_visited:
+            time.sleep(1.3)
+            V = Venues(v)
+            c = V.analyize_venue()
+            dict_of_relevant_visits[v] = c
 
+        self.dict_of_relevant_visits = dict_of_relevant_visits
 
+        
+    def all_concepts(self):
+        set_of_all_concepts = set()
+        for venue in self.dict_of_relevant_visits:
+            for c in self.dict_of_relevant_visits[venue].keys():
+                set_of_all_concepts.add(c)
+        self.set_of_all_concepts = set_of_all_concepts
+
+    def pool_concepts(self):
+        dict_of_pooled = dict()
+        for c in self.set_of_all_concepts:
+            dict_of_pooled[c] = list()
+
+        for c in dict_of_pooled:
+            for venue in self.dict_of_relevant_visits:
+                if c in self.dict_of_relevant_visits[venue].keys():
+                    dict_of_pooled[c].append(self.dict_of_relevant_visits[venue][c])
+                else:
+                    dict_of_pooled[c].append(0)
+        return dict_of_pooled
+
+    def mean_concepts(self, dict_of_pooled):
+        dict_of_mean = dict()
+        
+        for c in dict_of_pooled:
+            
+            dict_of_mean[c] = mean(dict_of_pooled[c])
+        
+        return dict_of_mean
+            
+                    
 
 
 
 if __name__ == '__main__':
-    Test = Users('a', 'Food')
-    Test.eval_user()
-    print(Test.list_of_cat_visited)
+    A = Users('a', 'Food')
+    A.eval_user()
+    A.concepts_for_all_relevant_visits()
+    A.all_concepts()
+    ra = A.pool_concepts()
+    ma = A.mean_concepts(ra)
+
+    Y = Users('y', 'Food')
+    Y.eval_user()
+    Y.concepts_for_all_relevant_visits()
+    Y.all_concepts()
+    ry = Y.pool_concepts()
+    my = Y.mean_concepts(ry)
+
+    
     #Test.get_venue_history()
