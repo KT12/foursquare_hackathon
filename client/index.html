@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>CommonGround</title>
+    <!-- Meta Data -->
+    <meta charset="utf-8">
+    <meta name="description" content="Display businesses within the area of a midpoint between 2 users' locations">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  </head>
+
+  <body>
+    <div id="map"></div>
+    <div class="panel">
+      <div class="row" style="font-size: 20px;">
+        CommonGround
+      </div>
+      <div class="row">
+        <label for="user1"><span style="font-size: 13px;">First User:</span></label>
+        <input type="text" id="user1" placeholder="username1">
+        <input type="text" id="loc1" placeholder="user1's address">
+        <br>
+
+        <label for="loc_text"><span style="font-size: 13px;">Second User:</span></label>
+        <input type="text" id="user2" placeholder="username2">
+        <input type="text" id="loc2" placeholder="user1's address">
+
+        <input type="radio" name="venue" value="bar">Bar
+
+        <input type="radio" name="venue" value="food"> Food
+
+      </div>
+
+
+      <div class="row">
+        <input type="button" value="Find" id="find" class="button">
+      </div>
+
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="gmaps.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
