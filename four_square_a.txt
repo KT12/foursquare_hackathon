@@ -1,0 +1,3949 @@
+{
+  "count": 134,
+  "items": [
+    {
+      "beenHere": 8,
+      "venue": {
+        "id": "4864629bf964a520e6501fe3",
+        "name": "Fordham University - Lincoln Center",
+        "contact": {
+          "phone": "2126366000",
+          "formattedPhone": "(212) 636-6000",
+          "twitter": "fordhamnotes"
+        },
+        "location": {
+          "address": "113 W 60th St",
+          "crossStreet": "Columbus Ave.",
+          "lat": 40.77027897368629,
+          "lng": -73.98445206337317,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77027897368629,
+              "lng": -73.98445206337317
+            }
+          ],
+          "postalCode": "10023",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "113 W 60th St (Columbus Ave.)",
+            "New York, NY 10023"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ae941735",
+            "name": "University",
+            "pluralName": "Universities",
+            "shortName": "University",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 21459,
+          "usersCount": 3942,
+          "tipCount": 14
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 6,
+      "venue": {
+        "id": "4a4cc69df964a52040ad1fe3",
+        "name": "Lenox Hill Hospital",
+        "contact": {
+          "phone": "2124342000",
+          "formattedPhone": "(212) 434-2000",
+          "twitter": "northwellhealth"
+        },
+        "location": {
+          "address": "100 E 77th St",
+          "crossStreet": "at Lexington Ave.",
+          "lat": 40.773643750011495,
+          "lng": -73.96081924438477,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.773643750011495,
+              "lng": -73.96081924438477
+            }
+          ],
+          "postalCode": "10075",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "100 E 77th St (at Lexington Ave.)",
+            "New York, NY 10075"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d196941735",
+            "name": "Hospital",
+            "pluralName": "Hospitals",
+            "shortName": "Hospital",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 15142,
+          "usersCount": 4322,
+          "tipCount": 36
+        },
+        "url": "http://www.northshorelij.com",
+        "venueRatingBlacklisted": true,
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 5,
+      "venue": {
+        "id": "4a42a955f964a5201aa61fe3",
+        "name": "Vanderbilt YMCA",
+        "contact": {
+          "phone": "2129122500",
+          "formattedPhone": "(212) 912-2500",
+          "twitter": "ymcanyc"
+        },
+        "location": {
+          "address": "224 E 47th St",
+          "crossStreet": "btwn 2nd & 3rd Ave.",
+          "lat": 40.753579305737205,
+          "lng": -73.9709646990083,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.753579305737205,
+              "lng": -73.9709646990083
+            }
+          ],
+          "postalCode": "10017",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "224 E 47th St (btwn 2nd & 3rd Ave.)",
+            "New York, NY 10017"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d175941735",
+            "name": "Gym / Fitness Center",
+            "pluralName": "Gyms or Fitness Centers",
+            "shortName": "Gym / Fitness",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 12615,
+          "usersCount": 1891,
+          "tipCount": 42
+        },
+        "url": "http://www.ymcanyc.org/vanderbilt",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 3,
+      "venue": {
+        "id": "4a40e23df964a520a8a41fe3",
+        "name": "Ess-a-Bagel",
+        "contact": {
+          "phone": "2129801010",
+          "formattedPhone": "(212) 980-1010",
+          "twitter": "essabagel"
+        },
+        "location": {
+          "address": "831 3rd Ave",
+          "crossStreet": "btwn 50th & 51st St.",
+          "lat": 40.75625648528742,
+          "lng": -73.97046536141255,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75625648528742,
+              "lng": -73.97046536141255
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "831 3rd Ave (btwn 50th & 51st St.)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d179941735",
+            "name": "Bagel Shop",
+            "pluralName": "Bagel Shops",
+            "shortName": "Bagels",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bagels_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 19689,
+          "usersCount": 11783,
+          "tipCount": 304
+        },
+        "url": "http://www.ess-a-bagel.com",
+        "hasMenu": true,
+        "delivery": {
+          "id": "202",
+          "url": "http://www.seamless.com/food-delivery/restaurant.202.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+          "provider": {
+            "name": "seamless"
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/essabagel/4a40e23df964a520a8a41fe3/menu",
+          "mobileUrl": "https://foursquare.com/v/4a40e23df964a520a8a41fe3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "82991416"
+        }
+      }
+    },
+    {
+      "beenHere": 3,
+      "venue": {
+        "id": "4b269470f964a520da7d24e3",
+        "name": "Synergy Fitness Clubs (Farmingdale)",
+        "contact": {
+          "twitter": "synergygymsnyc",
+          "facebook": "609808702379755",
+          "facebookUsername": "SynergyGymsNYC",
+          "facebookName": "Synergy Fitness Clubs"
+        },
+        "location": {
+          "address": "410 Conklin St",
+          "lat": 40.73268145997148,
+          "lng": -73.44495640210907,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.73268145997148,
+              "lng": -73.44495640210907
+            }
+          ],
+          "postalCode": "11735",
+          "cc": "US",
+          "city": "Farmingdale",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "410 Conklin St",
+            "Farmingdale, NY 11735"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d176941735",
+            "name": "Gym",
+            "pluralName": "Gyms",
+            "shortName": "Gym",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2205,
+          "usersCount": 143,
+          "tipCount": 5
+        },
+        "url": "http://www.synergyfitclubs.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 2,
+      "venue": {
+        "id": "4a513b17f964a520d2b01fe3",
+        "name": "LIRR - Jamaica Station",
+        "contact": {
+          "phone": "7185231162",
+          "formattedPhone": "(718) 523-1162",
+          "twitter": "lirrdeals4u"
+        },
+        "location": {
+          "address": "Sutphin Blvd & Archer Ave",
+          "crossStreet": "Jamaica Ave",
+          "lat": 40.699571379509244,
+          "lng": -73.80872160133205,
+          "postalCode": "11435",
+          "cc": "US",
+          "city": "Jamaica",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Sutphin Blvd & Archer Ave (Jamaica Ave)",
+            "Jamaica, NY 11435"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d129951735",
+            "name": "Train Station",
+            "pluralName": "Train Stations",
+            "shortName": "Train Station",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 144604,
+          "usersCount": 31146,
+          "tipCount": 299
+        },
+        "url": "http://www.mta.info/lirr",
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 2,
+      "venue": {
+        "id": "4abbce8cf964a520068520e3",
+        "name": "Black Forest Brew Haus",
+        "contact": {
+          "phone": "6318454715",
+          "formattedPhone": "(631) 845-4715"
+        },
+        "location": {
+          "address": "2015 New Hwy",
+          "crossStreet": "Smith St.",
+          "lat": 40.75498022626697,
+          "lng": -73.41453629566487,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75498022626697,
+              "lng": -73.41453629566487
+            }
+          ],
+          "postalCode": "11735",
+          "cc": "US",
+          "city": "Farmingdale",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "2015 New Hwy (Smith St.)",
+            "Farmingdale, NY 11735"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10d941735",
+            "name": "German Restaurant",
+            "pluralName": "German Restaurants",
+            "shortName": "German",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4132,
+          "usersCount": 1908,
+          "tipCount": 37
+        },
+        "url": "http://blackforestbrewhaus.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/black-forest-brew-haus/4abbce8cf964a520068520e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4abbce8cf964a520068520e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "36029937"
+        }
+      }
+    },
+    {
+      "beenHere": 2,
+      "venue": {
+        "id": "4b688fd2f964a52009802be3",
+        "name": "Starbucks",
+        "contact": {
+          "phone": "9547670137",
+          "formattedPhone": "(954) 767-0137",
+          "twitter": "starbucks",
+          "facebook": "22092443056",
+          "facebookUsername": "Starbucks",
+          "facebookName": "Starbucks"
+        },
+        "location": {
+          "address": "1501 SE 17th St",
+          "lat": 26.10086,
+          "lng": -80.1274,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.10086,
+              "lng": -80.1274
+            }
+          ],
+          "postalCode": "33316",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1501 SE 17th St",
+            "Fort Lauderdale, FL 33316"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4907,
+          "usersCount": 2363,
+          "tipCount": 25
+        },
+        "url": "http://www.starbucks.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/starbucks/4b688fd2f964a52009802be3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b688fd2f964a52009802be3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "8806"
+      }
+    },
+    {
+      "beenHere": 2,
+      "venue": {
+        "id": "4c22827c13c00f47ef9b87de",
+        "name": "Fitness Center",
+        "contact": {
+          "phone": "2126366050",
+          "formattedPhone": "(212) 636-6050",
+          "twitter": "fordhamnotes"
+        },
+        "location": {
+          "address": "113 W 60th St",
+          "crossStreet": "Fordham University",
+          "lat": 40.77093218205218,
+          "lng": -73.98582944307188,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77093218205218,
+              "lng": -73.98582944307188
+            }
+          ],
+          "postalCode": "10023",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "113 W 60th St (Fordham University)",
+            "New York, NY 10023"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1b2941735",
+            "name": "College Gym",
+            "pluralName": "College Gyms",
+            "shortName": "Gym",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 421,
+          "usersCount": 45,
+          "tipCount": 1
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 2,
+      "venue": {
+        "id": "4c7b2ca44dc1ef3b67ca389e",
+        "name": "Marine Corps Public Affairs",
+        "contact": {
+          "phone": "3472928792",
+          "formattedPhone": "(347) 292-8792",
+          "twitter": "nycmarines",
+          "facebook": "92871108822",
+          "facebookUsername": "NYCMarines",
+          "facebookName": "Marine Corps Public Affairs New York City"
+        },
+        "location": {
+          "address": "805 3rd Ave, Fl 9",
+          "crossStreet": "btw 49th & 50th",
+          "lat": 40.75531452117467,
+          "lng": -73.97034483145406,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75531452117467,
+              "lng": -73.97034483145406
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "805 3rd Ave, Fl 9 (btw 49th & 50th)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 10,
+          "usersCount": 7,
+          "tipCount": 2
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "3fd66200f964a520cce51ee3",
+        "name": "Trailer Park Lounge & Grill",
+        "contact": {
+          "phone": "2124638000",
+          "formattedPhone": "(212) 463-8000",
+          "twitter": "trailerparknyc",
+          "facebook": "338066163221",
+          "facebookUsername": "trailerparklounge",
+          "facebookName": "'the original' TRAILER PARK LOUNGE & GRILL, NEW YORK CITY"
+        },
+        "location": {
+          "address": "271 W 23rd St",
+          "crossStreet": "btwn 7th Ave & 8th Ave",
+          "lat": 40.74514799387085,
+          "lng": -73.99811064164594,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.74514799387085,
+              "lng": -73.99811064164594
+            }
+          ],
+          "postalCode": "10011",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "271 W 23rd St (btwn 7th Ave & 8th Ave)",
+            "New York, NY 10011"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 13717,
+          "usersCount": 9655,
+          "tipCount": 139
+        },
+        "url": "http://trailerparklounge.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/trailer-park-lounge--grill/3fd66200f964a520cce51ee3/menu",
+          "mobileUrl": "https://foursquare.com/v/3fd66200f964a520cce51ee3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "102278494"
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "48208c8cf964a520894f1fe3",
+        "name": "Gyu-Kaku Japanese BBQ",
+        "contact": {
+          "phone": "2127028816",
+          "formattedPhone": "(212) 702-8816",
+          "twitter": "gyukakujbbq",
+          "facebook": "107675045957918",
+          "facebookUsername": "GyuKakuMidtownNY",
+          "facebookName": "Gyu-Kaku Japanese BBQ"
+        },
+        "location": {
+          "address": "805 3rd Ave",
+          "crossStreet": "btwn E 49th & E 50th St",
+          "lat": 40.75561215118185,
+          "lng": -73.97092580795288,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75561215118185,
+              "lng": -73.97092580795288
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "805 3rd Ave (btwn E 49th & E 50th St)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d111941735",
+            "name": "Japanese Restaurant",
+            "pluralName": "Japanese Restaurants",
+            "shortName": "Japanese",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 12611,
+          "usersCount": 7726,
+          "tipCount": 138
+        },
+        "url": "http://www.gyu-kaku.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/gyukaku-japanese-bbq/48208c8cf964a520894f1fe3/menu",
+          "mobileUrl": "https://foursquare.com/v/48208c8cf964a520894f1fe3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "49c64842f964a5202e571fe3",
+        "name": "Columbus Circle",
+        "contact": {
+          "twitter": "nyc_dot",
+          "facebook": "166279802886",
+          "facebookUsername": "NYCDOT",
+          "facebookName": "NYC DOT"
+        },
+        "location": {
+          "address": "4-6 Columbus Cir",
+          "lat": 40.768115077357415,
+          "lng": -73.98204162513491,
+          "postalCode": "10019",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "4-6 Columbus Cir",
+            "New York, NY 10019"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d164941735",
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 129419,
+          "usersCount": 54279,
+          "tipCount": 215
+        },
+        "url": "http://www.nyc.gov/dot",
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a43c0aef964a520c6a61fe3",
+        "name": "Verrazano\u2013Narrows Bridge",
+        "contact": {},
+        "location": {
+          "address": "Brooklyn/Staten Island",
+          "crossStreet": "I-278",
+          "lat": 40.60679958140643,
+          "lng": -74.04416981025437,
+          "postalCode": "10305",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Brooklyn/Staten Island (I-278)",
+            "Brooklyn, NY 10305"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df941735",
+            "name": "Bridge",
+            "pluralName": "Bridges",
+            "shortName": "Bridge",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 81976,
+          "usersCount": 23021,
+          "tipCount": 149
+        },
+        "url": "http://web.mta.info/bandt/html/veraz.html",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a560cd1f964a5205cb41fe3",
+        "name": "Starbucks",
+        "contact": {
+          "phone": "2127541864",
+          "formattedPhone": "(212) 754-1864",
+          "twitter": "starbucks",
+          "instagram": "starbucks",
+          "facebook": "22092443056",
+          "facebookUsername": "Starbucks",
+          "facebookName": "Starbucks"
+        },
+        "location": {
+          "address": "599 Lexington Ave",
+          "crossStreet": "at E 52nd St",
+          "lat": 40.75764651,
+          "lng": -73.97101961,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75764651,
+              "lng": -73.97101961
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "599 Lexington Ave (at E 52nd St)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 9979,
+          "usersCount": 3679,
+          "tipCount": 29
+        },
+        "url": "http://www.starbucks.com/store/13388/",
+        "hasMenu": true,
+        "delivery": {
+          "id": "8435",
+          "url": "http://www.seamless.com/food-delivery/restaurant.8435.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+          "provider": {
+            "name": "seamless"
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.starbucks.com/menu",
+          "mobileUrl": "http://www.starbucks.com/menu",
+          "externalUrl": "http://www.starbucks.com/menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "7761"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a82e62cf964a52081f91fe3",
+        "name": "Alan's Marketplace",
+        "contact": {
+          "phone": "2122655886",
+          "formattedPhone": "(212) 265-5886"
+        },
+        "location": {
+          "address": "27 Columbus Ave",
+          "crossStreet": "btw 60th and 61st",
+          "lat": 40.77025407447199,
+          "lng": -73.98403884753738,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77025407447199,
+              "lng": -73.98403884753738
+            }
+          ],
+          "postalCode": "10023",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "27 Columbus Ave (btw 60th and 61st)",
+            "New York, NY 10023"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d146941735",
+            "name": "Deli / Bodega",
+            "pluralName": "Delis / Bodegas",
+            "shortName": "Deli / Bodega",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2741,
+          "usersCount": 488,
+          "tipCount": 12
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a89c289f964a520ed0820e3",
+        "name": "Duane Reade",
+        "contact": {
+          "phone": "2127599412",
+          "formattedPhone": "(212) 759-9412",
+          "twitter": "duanereade"
+        },
+        "location": {
+          "address": "866 3rd Ave",
+          "crossStreet": "btwn 52nd & 53rd St",
+          "lat": 40.75748428145851,
+          "lng": -73.96951259872985,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75748428145851,
+              "lng": -73.96951259872985
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "866 3rd Ave (btwn 52nd & 53rd St)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Pharmacy",
+            "pluralName": "Pharmacies",
+            "shortName": "Pharmacy",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3847,
+          "usersCount": 1843,
+          "tipCount": 9
+        },
+        "url": "http://www.duanereade.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "14153"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a968697f964a520412620e3",
+        "name": "West Side YMCA",
+        "contact": {
+          "phone": "2129122600",
+          "formattedPhone": "(212) 912-2600",
+          "twitter": "westsideynyc"
+        },
+        "location": {
+          "address": "5 W 63rd St",
+          "crossStreet": "at Central Park W",
+          "lat": 40.77102037348122,
+          "lng": -73.9808363946765,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77102037348122,
+              "lng": -73.9808363946765
+            }
+          ],
+          "postalCode": "10023",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "5 W 63rd St (at Central Park W)",
+            "New York, NY 10023"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d175941735",
+            "name": "Gym / Fitness Center",
+            "pluralName": "Gyms or Fitness Centers",
+            "shortName": "Gym / Fitness",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 14980,
+          "usersCount": 2277,
+          "tipCount": 63
+        },
+        "url": "http://www.fitforall5k.org",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "32822565"
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a9ad37af964a520fe3220e3",
+        "name": "Jaxson's Ice Cream Parlour, Restaurant & Country Store",
+        "contact": {
+          "phone": "9549234445",
+          "formattedPhone": "(954) 923-4445",
+          "twitter": "icecreamjaxsons"
+        },
+        "location": {
+          "address": "128 S Federal Hwy",
+          "crossStreet": "Stirling Rd",
+          "lat": 26.04942377592768,
+          "lng": -80.14399230480194,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.04942377592768,
+              "lng": -80.14399230480194
+            }
+          ],
+          "postalCode": "33004",
+          "cc": "US",
+          "city": "Dania Beach",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "128 S Federal Hwy (Stirling Rd)",
+            "Dania Beach, FL 33004"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 9098,
+          "usersCount": 5897,
+          "tipCount": 153
+        },
+        "url": "http://www.jaxsonsicecream.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/jaxsons-ice-cream-parlour-restaurant--country-store/4a9ad37af964a520fe3220e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4a9ad37af964a520fe3220e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "79405567"
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a9d8a2df964a520703820e3",
+        "name": "US Open Tennis Championships",
+        "contact": {
+          "twitter": "usopen",
+          "facebook": "96832392186",
+          "facebookUsername": "usopentennis",
+          "facebookName": "US Open Tennis Championships"
+        },
+        "location": {
+          "address": "USTA Billie Jean King National Tennis Center",
+          "lat": 40.749728204986305,
+          "lng": -73.84585482467361,
+          "postalCode": "11368",
+          "cc": "US",
+          "city": "Flushing",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "USTA Billie Jean King National Tennis Center",
+            "Flushing, NY 11368"
+          ]
+        },
+        "categories": [
+          {
+            "id": "5267e4d9e4b0ec79466e48c8",
+            "name": "Other Event",
+            "pluralName": "Other Events",
+            "shortName": "Other Event",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/event/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 44056,
+          "usersCount": 24018,
+          "tipCount": 152
+        },
+        "closed": true,
+        "url": "http://www.usopen.org",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4aa42b50f964a520a44520e3",
+        "name": "Flatiron District",
+        "contact": {
+          "twitter": "flatironny",
+          "facebook": "210776928948490",
+          "facebookUsername": "flatirondistrict.nyc",
+          "facebookName": "Flatiron District, NYC"
+        },
+        "location": {
+          "lat": 40.74036395493162,
+          "lng": -73.98991584777832,
+          "postalCode": "10010",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "New York, NY 10010"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4f2a25ac4b909258e854f55f",
+            "name": "Neighborhood",
+            "pluralName": "Neighborhoods",
+            "shortName": "Neighborhood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 51380,
+          "usersCount": 19218,
+          "tipCount": 34
+        },
+        "url": "http://www.discoverflatiron.org",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "33796378"
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ab26682f964a520106b20e3",
+        "name": "Starbucks",
+        "contact": {
+          "phone": "2129473860",
+          "formattedPhone": "(212) 947-3860",
+          "twitter": "starbucks",
+          "instagram": "starbucks",
+          "facebook": "22092443056",
+          "facebookUsername": "Starbucks",
+          "facebookName": "Starbucks"
+        },
+        "location": {
+          "address": "494 8th Ave",
+          "crossStreet": "at W 35th St",
+          "lat": 40.752633,
+          "lng": -73.992905,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.752633,
+              "lng": -73.992905
+            }
+          ],
+          "postalCode": "10001",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "494 8th Ave (at W 35th St)",
+            "New York, NY 10001"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 16835,
+          "usersCount": 8251,
+          "tipCount": 71
+        },
+        "url": "http://www.starbucks.com/store/16813/",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.starbucks.com/menu",
+          "mobileUrl": "http://www.starbucks.com/menu",
+          "externalUrl": "http://www.starbucks.com/menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "7470"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ade30b3f964a520c47321e3",
+        "name": "US Post Office - FDR Station",
+        "contact": {
+          "phone": "2123305508",
+          "formattedPhone": "(212) 330-5508",
+          "twitter": "usps",
+          "facebook": "60774464809",
+          "facebookUsername": "USPS",
+          "facebookName": "US Postal Service"
+        },
+        "location": {
+          "address": "909 3rd Ave",
+          "crossStreet": "at E 54th St",
+          "lat": 40.75861212876225,
+          "lng": -73.96876645598894,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75861212876225,
+              "lng": -73.96876645598894
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "909 3rd Ave (at E 54th St)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d172941735",
+            "name": "Post Office",
+            "pluralName": "Post Offices",
+            "shortName": "Post Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/postoffice_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 6101,
+          "usersCount": 2439,
+          "tipCount": 27
+        },
+        "url": "http://www.usps.com",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ae24066f964a520698c21e3",
+        "name": "South of the Border",
+        "contact": {
+          "phone": "5167964400",
+          "formattedPhone": "(516) 796-4400"
+        },
+        "location": {
+          "address": "335 Wantagh Ave",
+          "lat": 40.71629124,
+          "lng": -73.49983005,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.71629124,
+              "lng": -73.49983005
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "335 Wantagh Ave",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c1941735",
+            "name": "Mexican Restaurant",
+            "pluralName": "Mexican Restaurants",
+            "shortName": "Mexican",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 789,
+          "usersCount": 464,
+          "tipCount": 13
+        },
+        "url": "http://southoftheborderat335.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/south-of-the-border/4ae24066f964a520698c21e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4ae24066f964a520698c21e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4aeb24b7f964a520eebe21e3",
+        "name": "Theodore Roosevelt Birthplace National Historic Site",
+        "contact": {
+          "phone": "2122601616",
+          "formattedPhone": "(212) 260-1616",
+          "twitter": "trbirthplacenps",
+          "facebook": "357400494280431",
+          "facebookUsername": "TheodoreRooseveltBirthplaceNHS",
+          "facebookName": "Theodore Roosevelt Birthplace National Historic Site"
+        },
+        "location": {
+          "address": "28 E 20th St",
+          "lat": 40.738877312697035,
+          "lng": -73.98897442301349,
+          "postalCode": "10003",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "28 E 20th St",
+            "New York, NY 10003"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4deefb944765f83613cdba6e",
+            "name": "Historic Site",
+            "pluralName": "Historic Sites",
+            "shortName": "Historic Site",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1363,
+          "usersCount": 1088,
+          "tipCount": 29
+        },
+        "url": "http://www.nps.gov/thrb",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4aee2c39f964a520b2d221e3",
+        "name": "Five Guys",
+        "contact": {
+          "phone": "5167961237",
+          "formattedPhone": "(516) 796-1237",
+          "twitter": "five_guys",
+          "facebook": "19836964440",
+          "facebookUsername": "fiveguys",
+          "facebookName": "Five Guys"
+        },
+        "location": {
+          "address": "3497 Hempstead Turnpike",
+          "lat": 40.72606481847332,
+          "lng": -73.50630133381412,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.72606481847332,
+              "lng": -73.50630133381412
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3497 Hempstead Turnpike",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2228,
+          "usersCount": 1060,
+          "tipCount": 14
+        },
+        "url": "http://gofiveguys.com/menu/levittown/",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.fiveguys.com/en/menu",
+          "mobileUrl": "http://www.fiveguys.com/en/menu",
+          "externalUrl": "http://www.fiveguys.com/en/menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "165"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4aef64e7f964a52016d821e3",
+        "name": "New York Public Library - Grand Central",
+        "contact": {
+          "phone": "2126210670",
+          "formattedPhone": "(212) 621-0670",
+          "twitter": "nypl",
+          "facebook": "21557622350",
+          "facebookUsername": "nypl",
+          "facebookName": "NYPL The New York Public Library"
+        },
+        "location": {
+          "address": "135 E 46th St",
+          "crossStreet": "at Lexington Ave.",
+          "lat": 40.753753516238646,
+          "lng": -73.973708162925,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.753753516238646,
+              "lng": -73.973708162925
+            }
+          ],
+          "postalCode": "10017",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "135 E 46th St (at Lexington Ave.)",
+            "New York, NY 10017"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12f941735",
+            "name": "Library",
+            "pluralName": "Libraries",
+            "shortName": "Library",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3227,
+          "usersCount": 1160,
+          "tipCount": 15
+        },
+        "url": "https://www.facebook.com/nypl",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "GC"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b0c810cf964a520723e23e3",
+        "name": "Starbucks",
+        "contact": {
+          "phone": "5165200698",
+          "formattedPhone": "(516) 520-0698",
+          "twitter": "starbucks",
+          "instagram": "starbucks",
+          "facebook": "22092443056",
+          "facebookUsername": "Starbucks",
+          "facebookName": "Starbucks"
+        },
+        "location": {
+          "address": "205 Stewart Ave",
+          "crossStreet": "at Hempstead Tpke",
+          "lat": 40.72635,
+          "lng": -73.482822,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.72635,
+              "lng": -73.482822
+            }
+          ],
+          "postalCode": "11714",
+          "cc": "US",
+          "city": "Bethpage",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "205 Stewart Ave (at Hempstead Tpke)",
+            "Bethpage, NY 11714"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 6919,
+          "usersCount": 1032,
+          "tipCount": 29
+        },
+        "url": "http://www.starbucks.com/store/16013/",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.starbucks.com/menu",
+          "mobileUrl": "http://www.starbucks.com/menu",
+          "externalUrl": "http://www.starbucks.com/menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "2782"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b1065d2f964a520956f23e3",
+        "name": "The Home Depot",
+        "contact": {
+          "phone": "7183339850",
+          "formattedPhone": "(718) 333-9850",
+          "twitter": "homedepot",
+          "facebook": "216361621751056",
+          "facebookUsername": "Home.Depot.Cropsey.Ny",
+          "facebookName": "The Home Depot"
+        },
+        "location": {
+          "address": "2970 Cropsey Avenue",
+          "lat": 40.58144735006239,
+          "lng": -73.98822261680137,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.58144735006239,
+              "lng": -73.98822261680137
+            }
+          ],
+          "postalCode": "11214",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "2970 Cropsey Avenue",
+            "Brooklyn, NY 11214"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d112951735",
+            "name": "Hardware Store",
+            "pluralName": "Hardware Stores",
+            "shortName": "Hardware",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4249,
+          "usersCount": 1448,
+          "tipCount": 16
+        },
+        "url": "http://www.homedepot.com/l/Cropsey/NY/Brooklyn/11214/1256",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "1256"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b15cd2af964a52073b423e3",
+        "name": "TGI Fridays",
+        "contact": {
+          "phone": "5167961549",
+          "formattedPhone": "(516) 796-1549",
+          "twitter": "tgifridays",
+          "facebook": "107696493204",
+          "facebookUsername": "TGIFridays",
+          "facebookName": "TGI Fridays"
+        },
+        "location": {
+          "address": "3535 Hempstead Tpke",
+          "lat": 40.72592534,
+          "lng": -73.50522995,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.72592534,
+              "lng": -73.50522995
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3535 Hempstead Tpke",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5035,
+          "usersCount": 1999,
+          "tipCount": 23
+        },
+        "url": "http://tgifridays.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/tgi-fridays/4b15cd2af964a52073b423e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b15cd2af964a52073b423e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "539"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b22ce63f964a520e04d24e3",
+        "name": "Applebee's",
+        "contact": {
+          "phone": "6318455201",
+          "formattedPhone": "(631) 845-5201",
+          "twitter": "applebees"
+        },
+        "location": {
+          "address": "200 Airport Plaza Blvd",
+          "crossStreet": "at Broad Hollow Rd",
+          "lat": 40.73668004,
+          "lng": -73.42017414,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.73668004,
+              "lng": -73.42017414
+            }
+          ],
+          "postalCode": "11735",
+          "cc": "US",
+          "city": "Farmingdale",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "200 Airport Plaza Blvd (at Broad Hollow Rd)",
+            "Farmingdale, NY 11735"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5180,
+          "usersCount": 2203,
+          "tipCount": 30
+        },
+        "url": "http://restaurants.applebees.com/ny/farmingdale/200-airport-plaza.html",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/applebees/4b22ce63f964a520e04d24e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b22ce63f964a520e04d24e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b3c1225f964a5204e8125e3",
+        "name": "Dunkin Donuts",
+        "contact": {
+          "phone": "7187454060",
+          "formattedPhone": "(718) 745-4060",
+          "twitter": "dunkindonuts",
+          "facebook": "6979393237",
+          "facebookUsername": "DunkinDonutsUS",
+          "facebookName": "Dunkin' Donuts"
+        },
+        "location": {
+          "address": "9243 4th Ave",
+          "crossStreet": "at 93rd St.",
+          "lat": 40.61719504195245,
+          "lng": -74.0305143010544,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.61719504195245,
+              "lng": -74.0305143010544
+            }
+          ],
+          "postalCode": "11209",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "9243 4th Ave (at 93rd St.)",
+            "Brooklyn, NY 11209"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d148941735",
+            "name": "Donut Shop",
+            "pluralName": "Donut Shops",
+            "shortName": "Donuts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4630,
+          "usersCount": 1013,
+          "tipCount": 14
+        },
+        "url": "http://www.dunkindonuts.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/dunkin-donuts/4b3c1225f964a5204e8125e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b3c1225f964a5204e8125e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "304361"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b4a0395f964a520f37726e3",
+        "name": "Green spa",
+        "contact": {},
+        "location": {
+          "address": "8804 3rd Ave",
+          "crossStreet": "88th street",
+          "lat": 40.621941,
+          "lng": -74.031713,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.621941,
+              "lng": -74.031713
+            }
+          ],
+          "postalCode": "11209",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "8804 3rd Ave (88th street)",
+            "Brooklyn, NY 11209"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ed941735",
+            "name": "Spa",
+            "pluralName": "Spas",
+            "shortName": "Spa",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 143,
+          "usersCount": 75,
+          "tipCount": 2
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b4f6681f964a520e40427e3",
+        "name": "Sophie's Cuban Cusine",
+        "contact": {
+          "phone": "2123081024",
+          "formattedPhone": "(212) 308-1024",
+          "twitter": "sophiescuban"
+        },
+        "location": {
+          "address": "805 Third Ave, LL #8",
+          "crossStreet": "at 49th St.",
+          "lat": 40.755561,
+          "lng": -73.970744,
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "805 Third Ave, LL #8 (at 49th St.)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d154941735",
+            "name": "Cuban Restaurant",
+            "pluralName": "Cuban Restaurants",
+            "shortName": "Cuban",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cuban_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 569,
+          "usersCount": 288,
+          "tipCount": 9
+        },
+        "closed": true,
+        "url": "http://www.sophiescuban.com/805third",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sophies-cuban-cusine/4b4f6681f964a520e40427e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b4f6681f964a520e40427e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b501f2bf964a520111d27e3",
+        "name": "Walmart Supercenter",
+        "contact": {
+          "phone": "9547337473",
+          "formattedPhone": "(954) 733-7473",
+          "twitter": "walmart"
+        },
+        "location": {
+          "address": "3001 North State Road 7",
+          "lat": 26.162665558798857,
+          "lng": -80.2051124731015,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.162665558798857,
+              "lng": -80.2051124731015
+            }
+          ],
+          "postalCode": "33313",
+          "cc": "US",
+          "city": "Lauderdale Lakes",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "3001 North State Road 7",
+            "Lauderdale Lakes, FL 33313"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b42",
+            "name": "Big Box Store",
+            "pluralName": "Big Box Stores",
+            "shortName": "Big Box Store",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3357,
+          "usersCount": 1458,
+          "tipCount": 34
+        },
+        "url": "https://www.walmart.com/store/3625",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "3625"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b5b43e5f964a520b0ef28e3",
+        "name": "McDonald's",
+        "contact": {
+          "phone": "2128320447",
+          "formattedPhone": "(212) 832-0447",
+          "twitter": "mcdonalds",
+          "facebook": "10150097174480584",
+          "facebookUsername": "McDonalds",
+          "facebookName": "McDonald's"
+        },
+        "location": {
+          "address": "824 3rd Ave",
+          "crossStreet": "at E 50th St.",
+          "lat": 40.75603475927267,
+          "lng": -73.97073268890381,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75603475927267,
+              "lng": -73.97073268890381
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "824 3rd Ave (at E 50th St.)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2827,
+          "usersCount": 1560,
+          "tipCount": 21
+        },
+        "url": "http://mcdonalds.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.mcdonalds.com/us/en/food/full_menu/full_menu_explorer.html",
+          "mobileUrl": "http://www.mcdonalds.com/us/en/food/full_menu/full_menu_explorer.html",
+          "externalUrl": "http://www.mcdonalds.com/us/en/food/full_menu/full_menu_explorer.html"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "22003"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b60e6c6f964a52087002ae3",
+        "name": "Pig 'n' Whistle",
+        "contact": {
+          "phone": "2128322021",
+          "formattedPhone": "(212) 832-2021",
+          "facebook": "283789101726556",
+          "facebookName": "Pig N' Whistle on 2nd"
+        },
+        "location": {
+          "address": "951 2nd Ave",
+          "crossStreet": "btwn E 50th & E 51st St",
+          "lat": 40.75533,
+          "lng": -73.968463,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.75533,
+              "lng": -73.968463
+            }
+          ],
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "951 2nd Ave (btwn E 50th & E 51st St)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11b941735",
+            "name": "Pub",
+            "pluralName": "Pubs",
+            "shortName": "Pub",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 9998,
+          "usersCount": 6001,
+          "tipCount": 59
+        },
+        "url": "http://www.pignwhistleon2.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/pig-n-whistle/4b60e6c6f964a52087002ae3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b60e6c6f964a52087002ae3/device_menu",
+          "externalUrl": "http://nebula.wsimg.com/455ed8ea184a7b9618fc7b47c2c4a2ea?AccessKeyId=70869BD4C407B62E020B&disposition=0&alloworigin=1"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b660b31f964a52060102be3",
+        "name": "Plainview-Old Bethpage Public Library",
+        "contact": {
+          "phone": "5169380077",
+          "formattedPhone": "(516) 938-0077"
+        },
+        "location": {
+          "address": "999 Old Country Rd",
+          "lat": 40.77524067499357,
+          "lng": -73.47345045817305,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77524067499357,
+              "lng": -73.47345045817305
+            }
+          ],
+          "postalCode": "11803",
+          "cc": "US",
+          "city": "Plainview",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "999 Old Country Rd",
+            "Plainview, NY 11803"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12f941735",
+            "name": "Library",
+            "pluralName": "Libraries",
+            "shortName": "Library",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1320,
+          "usersCount": 310,
+          "tipCount": 2
+        },
+        "url": "http://www.poblib.org",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "63852333"
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b708743f964a52002202de3",
+        "name": "Pollo Tropical",
+        "contact": {
+          "phone": "9547642141",
+          "formattedPhone": "(954) 764-2141",
+          "twitter": "pollotropical",
+          "facebook": "233921809956670",
+          "facebookUsername": "PolloTropical",
+          "facebookName": "Pollo Tropical"
+        },
+        "location": {
+          "address": "1819 S Federal Hwy",
+          "lat": 26.098747333728564,
+          "lng": -80.13687497979866,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.098747333728564,
+              "lng": -80.13687497979866
+            }
+          ],
+          "postalCode": "33316",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1819 S Federal Hwy",
+            "Fort Lauderdale, FL 33316"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1be941735",
+            "name": "Latin American Restaurant",
+            "pluralName": "Latin American Restaurants",
+            "shortName": "Latin American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/latinamerican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1232,
+          "usersCount": 736,
+          "tipCount": 15
+        },
+        "url": "http://pollotropical.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/pollo-tropical/4b708743f964a52002202de3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b708743f964a52002202de3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "35"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b8328daf964a520fffa30e3",
+        "name": "The Home Depot",
+        "contact": {
+          "phone": "6317530814",
+          "formattedPhone": "(631) 753-0814",
+          "twitter": "homedepot",
+          "facebook": "216919085029390",
+          "facebookUsername": "Home.Depot.Farmingdale.Ny",
+          "facebookName": "The Home Depot"
+        },
+        "location": {
+          "address": "202 Airport Plaza",
+          "lat": 40.736250500618226,
+          "lng": -73.41789400885312,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.736250500618226,
+              "lng": -73.41789400885312
+            }
+          ],
+          "postalCode": "11735",
+          "cc": "US",
+          "city": "Farmingdale",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "202 Airport Plaza",
+            "Farmingdale, NY 11735"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d112951735",
+            "name": "Hardware Store",
+            "pluralName": "Hardware Stores",
+            "shortName": "Hardware",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3436,
+          "usersCount": 1349,
+          "tipCount": 1
+        },
+        "url": "http://www.homedepot.com/l/Farmingdale/NY/Farmingdale/11735/1267",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "1267"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b90f575f964a5202b9c33e3",
+        "name": "Avis Car Rental",
+        "contact": {
+          "phone": "9543593250",
+          "formattedPhone": "(954) 359-3250",
+          "twitter": "avis",
+          "facebook": "136437939713731",
+          "facebookUsername": "avis",
+          "facebookName": "Avis Car Rental"
+        },
+        "location": {
+          "address": "600 Terminal Drive, 3rd Floor",
+          "lat": 26.07204142,
+          "lng": -80.13885319,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.07204142,
+              "lng": -80.13885319
+            }
+          ],
+          "postalCode": "33315",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "600 Terminal Drive, 3rd Floor",
+            "Fort Lauderdale, FL 33315"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ef941735",
+            "name": "Rental Car Location",
+            "pluralName": "Rental Car Locations",
+            "shortName": "Rental Car",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/airport_rentalcar_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1893,
+          "usersCount": 1046,
+          "tipCount": 9
+        },
+        "url": "http://locations.avis.com/us/ca/los-angeles/lax.html",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "44681"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4b92aed5f964a5201c1134e3",
+        "name": "Eisenhower Park",
+        "contact": {
+          "phone": "5165720348",
+          "formattedPhone": "(516) 572-0348"
+        },
+        "location": {
+          "address": "Hempstead Tpke",
+          "crossStreet": "at Merrick Ave",
+          "lat": 40.73209775082218,
+          "lng": -73.5759788274828,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.73209775082218,
+              "lng": -73.5759788274828
+            }
+          ],
+          "postalCode": "11549",
+          "cc": "US",
+          "city": "East Meadow",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Hempstead Tpke (at Merrick Ave)",
+            "East Meadow, NY 11549"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 21614,
+          "usersCount": 3893,
+          "tipCount": 34
+        },
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ba50919f964a520a3d338e3",
+        "name": "Old Time Pottery",
+        "contact": {},
+        "location": {
+          "lat": 26.18780194010681,
+          "lng": -80.20482374625507,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.18780194010681,
+              "lng": -80.20482374625507
+            }
+          ],
+          "postalCode": "33319",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "Fort Lauderdale, FL 33319"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f8941735",
+            "name": "Furniture / Home Store",
+            "pluralName": "Furniture / Home Stores",
+            "shortName": "Furniture / Home",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1047,
+          "usersCount": 547,
+          "tipCount": 4
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ba61935f964a520673339e3",
+        "name": "Pelham Bay Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "Pelham Bay Park",
+          "lat": 40.854656417124296,
+          "lng": -73.81576538085938,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.854656417124296,
+              "lng": -73.81576538085938
+            }
+          ],
+          "cc": "US",
+          "city": "Bronx",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Pelham Bay Park",
+            "Bronx, NY"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5253,
+          "usersCount": 2341,
+          "tipCount": 28
+        },
+        "url": "http://nyc.gov/parks",
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4bb918b253649c7482b547fb",
+        "name": "Walgreens",
+        "contact": {
+          "phone": "9543446437",
+          "formattedPhone": "(954) 344-6437",
+          "twitter": "walgreens",
+          "facebook": "117497138610",
+          "facebookUsername": "Walgreens",
+          "facebookName": "Walgreens"
+        },
+        "location": {
+          "address": "5480 N University Dr",
+          "lat": 26.2977079,
+          "lng": -80.25063734,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.2977079,
+              "lng": -80.25063734
+            }
+          ],
+          "postalCode": "33067",
+          "cc": "US",
+          "city": "Coral Springs",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "5480 N University Dr",
+            "Coral Springs, FL 33067"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Pharmacy",
+            "pluralName": "Pharmacies",
+            "shortName": "Pharmacy",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1979,
+          "usersCount": 225,
+          "tipCount": 3
+        },
+        "url": "http://www.walgreens.com/locator/walgreens-5480+n+university+dr-coral+springs-fl-33067/id=3933",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "3933"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4bbe3fff53e99521c1f92ca9",
+        "name": "Fort Lauderdale-Hollywood International Airport (FLL)",
+        "contact": {
+          "phone": "8664359355",
+          "formattedPhone": "(866) 435-9355",
+          "twitter": "fllflyer",
+          "facebook": "141119502623194",
+          "facebookUsername": "FortLauderdaleAirport",
+          "facebookName": "Fort Lauderdale - Hollywood International Airport FLL"
+        },
+        "location": {
+          "address": "100 Terminal Dr",
+          "crossStreet": "I-595",
+          "lat": 26.07236026883552,
+          "lng": -80.14475278201692,
+          "postalCode": "33315",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "100 Terminal Dr (I-595)",
+            "Fort Lauderdale, FL 33315"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ed931735",
+            "name": "Airport",
+            "pluralName": "Airports",
+            "shortName": "Airport",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 555116,
+          "usersCount": 183336,
+          "tipCount": 1674
+        },
+        "url": "http://www.broward.org/airport/Pages/Default.aspx",
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4bd02803046076b0dd6e6f71",
+        "name": "John Paul Jones Park ('Cannonball Park')",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "10108 4th Ave",
+          "crossStreet": "101st St.",
+          "lat": 40.61154096139938,
+          "lng": -74.03437001026933,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.61154096139938,
+              "lng": -74.03437001026933
+            }
+          ],
+          "postalCode": "11209",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "10108 4th Ave (101st St.)",
+            "Brooklyn, NY 11209"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2710,
+          "usersCount": 851,
+          "tipCount": 9
+        },
+        "url": "http://nyc.gov/parks",
+        "delivery": {
+          "id": "34006",
+          "url": "http://www.seamless.com/food-delivery/restaurant.34006.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+          "provider": {
+            "name": "seamless"
+          }
+        },
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4bd4ec686798ef3be4b4628d",
+        "name": "The Cup Coffee House",
+        "contact": {
+          "phone": "5168269533",
+          "formattedPhone": "(516) 826-9533"
+        },
+        "location": {
+          "address": "3268 Railroad Ave",
+          "crossStreet": "at Grove St",
+          "lat": 40.67277907482115,
+          "lng": -73.50867146207044,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.67277907482115,
+              "lng": -73.50867146207044
+            }
+          ],
+          "postalCode": "11793",
+          "cc": "US",
+          "city": "Wantagh",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3268 Railroad Ave (at Grove St)",
+            "Wantagh, NY 11793"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2409,
+          "usersCount": 1038,
+          "tipCount": 49
+        },
+        "url": "http://thecupcoffeehouse.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/the-cup-coffee-house/4bd4ec686798ef3be4b4628d/menu",
+          "mobileUrl": "https://foursquare.com/v/4bd4ec686798ef3be4b4628d/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4bff9551369476b029fc8d1f",
+        "name": "Forever 21",
+        "contact": {
+          "phone": "2123020594",
+          "formattedPhone": "(212) 302-0594",
+          "twitter": "forever21"
+        },
+        "location": {
+          "address": "1540 Broadway",
+          "crossStreet": "btwn 45th & 46th St",
+          "lat": 40.75837750506866,
+          "lng": -73.98525553606459,
+          "postalCode": "10036",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "1540 Broadway (btwn 45th & 46th St)",
+            "New York, NY 10036"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d103951735",
+            "name": "Clothing Store",
+            "pluralName": "Clothing Stores",
+            "shortName": "Apparel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 30387,
+          "usersCount": 20490,
+          "tipCount": 196
+        },
+        "url": "http://www.forever21.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "3006"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c0bfab0bbc676b04d5e4cd5",
+        "name": "Queen Nails",
+        "contact": {},
+        "location": {
+          "lat": 25.925292,
+          "lng": -80.173291,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.925292,
+              "lng": -80.173291
+            }
+          ],
+          "postalCode": "33162",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "Miami, FL 33162"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10c951735",
+            "name": "Cosmetics Shop",
+            "pluralName": "Cosmetics Shops",
+            "shortName": "Cosmetics",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 111,
+          "usersCount": 32,
+          "tipCount": 2
+        },
+        "hasMenu": true,
+        "menu": {
+          "type": "Products",
+          "label": "Products",
+          "anchor": "View Products",
+          "url": "https://foursquare.com/v/queen-nails/4c0bfab0bbc676b04d5e4cd5/menu",
+          "mobileUrl": "https://foursquare.com/v/4c0bfab0bbc676b04d5e4cd5/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c0f746a7189c928470adab6",
+        "name": "US Naval Weapons Station Earle",
+        "contact": {
+          "phone": "7328662000",
+          "formattedPhone": "(732) 866-2000"
+        },
+        "location": {
+          "address": "201 State Route 34",
+          "lat": 40.2648892643871,
+          "lng": -74.1608476638794,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.2648892643871,
+              "lng": -74.1608476638794
+            }
+          ],
+          "postalCode": "07722",
+          "cc": "US",
+          "city": "Colts Neck",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "201 State Route 34",
+            "Colts Neck, NJ 07722"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d126941735",
+            "name": "Government Building",
+            "pluralName": "Government Buildings",
+            "shortName": "Government",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1969,
+          "usersCount": 493,
+          "tipCount": 7
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c13b42577cea593d63bcf60",
+        "name": "Cold Stone Creamery",
+        "contact": {
+          "phone": "5167963500",
+          "formattedPhone": "(516) 796-3500",
+          "twitter": "coldstone"
+        },
+        "location": {
+          "address": "3535 Hempstead Turnpike",
+          "lat": 40.725875972178585,
+          "lng": -73.50534061889535,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.725875972178585,
+              "lng": -73.50534061889535
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3535 Hempstead Turnpike",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1193,
+          "usersCount": 672,
+          "tipCount": 5
+        },
+        "url": "http://www.coldstonecreamery.com/stores/21225",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/cold-stone-creamery/4c13b42577cea593d63bcf60/menu",
+          "mobileUrl": "https://foursquare.com/v/4c13b42577cea593d63bcf60/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "20636"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c1409c4b7b9c9285fb2aa37",
+        "name": "Ralph's Famous Italian Ices",
+        "contact": {},
+        "location": {
+          "address": "301 Wantagh Ave",
+          "lat": 40.71690692,
+          "lng": -73.49943496666667,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.71690692,
+              "lng": -73.49943496666667
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "301 Wantagh Ave",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 541,
+          "usersCount": 267,
+          "tipCount": 4
+        },
+        "url": "http://ralphsices.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c43651d429a0f47f14f471e",
+        "name": "Half Moon Beach",
+        "contact": {},
+        "location": {
+          "address": "Half moon beach",
+          "lat": 40.854093099858275,
+          "lng": -73.73049804077009,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.854093099858275,
+              "lng": -73.73049804077009
+            }
+          ],
+          "postalCode": "11050",
+          "cc": "US",
+          "city": "Port Washington",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Half moon beach",
+            "Port Washington, NY 11050"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e2941735",
+            "name": "Beach",
+            "pluralName": "Beaches",
+            "shortName": "Beach",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 122,
+          "usersCount": 48,
+          "tipCount": 0
+        },
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4c9337b2d2e1a1435be0d026",
+        "name": "MTA Bus Bx 27 -- Morrison Avenue & Westchester Avenue",
+        "contact": {},
+        "location": {
+          "crossStreet": "Morrison Avenue and Westchester Avenue",
+          "lat": 40.82937189659941,
+          "lng": -73.87453997719514,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.82937189659941,
+              "lng": -73.87453997719514
+            }
+          ],
+          "postalCode": "10472",
+          "cc": "US",
+          "city": "Bronx",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Bronx, NY 10472"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12b951735",
+            "name": "Bus Line",
+            "pluralName": "Bus Lines",
+            "shortName": "Bus",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1536,
+          "usersCount": 169,
+          "tipCount": 1
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4cc16cbf22ce468880403d47",
+        "name": "NWS Earle Mainside Gym",
+        "contact": {},
+        "location": {
+          "address": "Coral Rd.",
+          "lat": 40.26809841163769,
+          "lng": -74.15707111358643,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.26809841163769,
+              "lng": -74.15707111358643
+            }
+          ],
+          "postalCode": "07722",
+          "cc": "US",
+          "city": "Colts Neck",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "Coral Rd.",
+            "Colts Neck, NJ 07722"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d176941735",
+            "name": "Gym",
+            "pluralName": "Gyms",
+            "shortName": "Gym",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 88,
+          "usersCount": 23,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4d371e88d8caa1cd4de073d6",
+        "name": "New York Presbyterian - Weill Cornell Medical College",
+        "contact": {},
+        "location": {
+          "address": "525 E 68th St",
+          "crossStreet": "York Ave.",
+          "lat": 40.76067491611172,
+          "lng": -73.96039224047603,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.76067491611172,
+              "lng": -73.96039224047603
+            }
+          ],
+          "postalCode": "10065",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "525 E 68th St (York Ave.)",
+            "New York, NY 10065"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d104941735",
+            "name": "Medical Center",
+            "pluralName": "Medical Centers",
+            "shortName": "Medical",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1488,
+          "usersCount": 374,
+          "tipCount": 4
+        },
+        "venueRatingBlacklisted": true,
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4d84f6dff1e56ea87c42808a",
+        "name": "Tropical Smoothie Caf\u00e9",
+        "contact": {
+          "phone": "5167310399",
+          "formattedPhone": "(516) 731-0399"
+        },
+        "location": {
+          "address": "3591B Hempstead Tpke",
+          "lat": 40.72742837007956,
+          "lng": -73.50577783101805,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.72742837007956,
+              "lng": -73.50577783101805
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3591B Hempstead Tpke",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d112941735",
+            "name": "Juice Bar",
+            "pluralName": "Juice Bars",
+            "shortName": "Juice Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2829,
+          "usersCount": 862,
+          "tipCount": 22
+        },
+        "url": "http://www.tropicalsmoothie.com",
+        "hasMenu": true,
+        "delivery": {
+          "id": "260175",
+          "url": "http://www.grubhub.com/order_redir.jsp?custId=260175&affId=1131",
+          "provider": {
+            "name": "grubhub"
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/tropical-smoothie-caf%C3%A9/4d84f6dff1e56ea87c42808a/menu",
+          "mobileUrl": "https://foursquare.com/v/4d84f6dff1e56ea87c42808a/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4e135df72fb6cb6e9a42cefa",
+        "name": "Cinnabon",
+        "contact": {},
+        "location": {
+          "address": "630 Old Country Rd",
+          "lat": 40.738763482024844,
+          "lng": -73.61295353447287,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.738763482024844,
+              "lng": -73.61295353447287
+            }
+          ],
+          "postalCode": "11530",
+          "cc": "US",
+          "city": "Garden City",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "630 Old Country Rd",
+            "Garden City, NY 11530"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 273,
+          "usersCount": 177,
+          "tipCount": 3
+        },
+        "url": "http://www.cinnabon.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4e567475227140cf12f50b08",
+        "name": "LA Fitness",
+        "contact": {
+          "phone": "5163428135",
+          "formattedPhone": "(516) 342-8135",
+          "twitter": "lafitness"
+        },
+        "location": {
+          "address": "3601-C Hempstead Turnpike",
+          "crossStreet": "Nassau Mall",
+          "lat": 40.72823962154964,
+          "lng": -73.50158400895846,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.72823962154964,
+              "lng": -73.50158400895846
+            }
+          ],
+          "postalCode": "11756",
+          "cc": "US",
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3601-C Hempstead Turnpike (Nassau Mall)",
+            "Levittown, NY 11756"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d175941735",
+            "name": "Gym / Fitness Center",
+            "pluralName": "Gyms or Fitness Centers",
+            "shortName": "Gym / Fitness",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 7189,
+          "usersCount": 511,
+          "tipCount": 18
+        },
+        "url": "http://www.lafitness.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "630"
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ea70f50be7b572daa706739",
+        "name": "Earle NWS Clinic",
+        "contact": {},
+        "location": {
+          "address": "Building C-3",
+          "lat": 40.267927,
+          "lng": -74.160788,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.267927,
+              "lng": -74.160788
+            }
+          ],
+          "cc": "US",
+          "city": "Colts Neck",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "Building C-3",
+            "Colts Neck, NJ"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d196941735",
+            "name": "Hospital",
+            "pluralName": "Hospitals",
+            "shortName": "Hospital",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 55,
+          "usersCount": 25,
+          "tipCount": 0
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4ea75442f7903beac0782454",
+        "name": "Sushi Yasaka",
+        "contact": {
+          "phone": "2124968460",
+          "formattedPhone": "(212) 496-8460"
+        },
+        "location": {
+          "address": "251 W 72nd St",
+          "crossStreet": "btwn Broadway & W End Ave",
+          "lat": 40.77937526571111,
+          "lng": -73.98347641344374,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.77937526571111,
+              "lng": -73.98347641344374
+            }
+          ],
+          "postalCode": "10023",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "251 W 72nd St (btwn Broadway & W End Ave)",
+            "New York, NY 10023"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d2941735",
+            "name": "Sushi Restaurant",
+            "pluralName": "Sushi Restaurants",
+            "shortName": "Sushi",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 7990,
+          "usersCount": 4203,
+          "tipCount": 176
+        },
+        "url": "http://sushiyasaka.com",
+        "hasMenu": true,
+        "delivery": {
+          "id": "2448",
+          "url": "http://www.seamless.com/food-delivery/restaurant.2448.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+          "provider": {
+            "name": "seamless"
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sushi-yasaka/4ea75442f7903beac0782454/menu",
+          "mobileUrl": "https://foursquare.com/v/4ea75442f7903beac0782454/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4f3d2949e4b0c1f277bba305",
+        "name": "St. Joseph's Hospital Emergency Room",
+        "contact": {},
+        "location": {
+          "address": "Hempstead Turnpike",
+          "lat": 40.726144255486815,
+          "lng": -73.47860567893508,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.726144255486815,
+              "lng": -73.47860567893508
+            }
+          ],
+          "postalCode": "11714",
+          "cc": "US",
+          "city": "Bethpage",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Hempstead Turnpike",
+            "Bethpage, NY 11714"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d194941735",
+            "name": "Emergency Room",
+            "pluralName": "Emergency Rooms",
+            "shortName": "Emergency Room",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_ems_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1135,
+          "usersCount": 185,
+          "tipCount": 2
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "50cb85e7e4b03ff334431b77",
+        "name": "Smashburger",
+        "contact": {
+          "phone": "5163084772",
+          "formattedPhone": "(516) 308-4772"
+        },
+        "location": {
+          "address": "1223 Wantagh Ave",
+          "crossStreet": "Jerusalem Ave",
+          "lat": 40.692932039405406,
+          "lng": -73.50743462662174,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.692932039405406,
+              "lng": -73.50743462662174
+            }
+          ],
+          "postalCode": "11793",
+          "cc": "US",
+          "city": "North Wantagh",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "1223 Wantagh Ave (Jerusalem Ave)",
+            "North Wantagh, NY 11793"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1601,
+          "usersCount": 768,
+          "tipCount": 28
+        },
+        "url": "http://smashburger.com/menu/wantagh/",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "53daa67011d2e65ecff036e6",
+        "name": "Einstein Bros Bagels",
+        "contact": {
+          "phone": "9544631717",
+          "formattedPhone": "(954) 463-1717",
+          "twitter": "einsteinbros"
+        },
+        "location": {
+          "address": "1499 SE 17th St",
+          "lat": 26.10087365,
+          "lng": -80.12768449,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.10087365,
+              "lng": -80.12768449
+            }
+          ],
+          "postalCode": "33316",
+          "cc": "US",
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1499 SE 17th St",
+            "Fort Lauderdale, FL 33316"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d179941735",
+            "name": "Bagel Shop",
+            "pluralName": "Bagel Shops",
+            "shortName": "Bagels",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bagels_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 1495,
+          "usersCount": 970,
+          "tipCount": 11
+        },
+        "url": "http://www.einsteinbros.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/einstein-bros-bagels/53daa67011d2e65ecff036e6/menu",
+          "mobileUrl": "https://foursquare.com/v/53daa67011d2e65ecff036e6/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "777"
+      }
+    }
+  ]
+}
