@@ -1,0 +1,248 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "40abf500f964a52035f31ee3",
+        "name": "Washington Square Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "W 4th St",
+          "crossStreet": "btwn MacDougal St & University Pl",
+          "lat": 40.730915998310316,
+          "lng": -73.99758841977594,
+          "postalCode": "10012",
+          "cc": "US",
+          "city": "Nova Iorque",
+          "state": "NY",
+          "country": "Estados Unidos",
+          "formattedAddress": [
+            "W 4th St (btwn MacDougal St & University Pl)",
+            "Nova Iorque, NY 10012"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 183994,
+          "usersCount": 73027,
+          "tipCount": 640
+        },
+        "url": "http://nyc.gov/parks",
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4a6a4328f964a520fbcc1fe3",
+        "name": "NYU Hayden Dining Hall",
+        "contact": {
+          "phone": "2129953074",
+          "formattedPhone": "(212) 995-3074",
+          "twitter": "nyuniversity",
+          "facebook": "103256838688",
+          "facebookUsername": "NYU",
+          "facebookName": "New York University"
+        },
+        "location": {
+          "address": "33 Washington Sq W",
+          "crossStreet": "at Washington Pl",
+          "lat": 40.73148126752777,
+          "lng": -73.99948792326643,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.73148126752777,
+              "lng": -73.99948792326643
+            }
+          ],
+          "postalCode": "10011",
+          "cc": "US",
+          "city": "Nova Iorque",
+          "state": "NY",
+          "country": "Estados Unidos",
+          "formattedAddress": [
+            "33 Washington Sq W (at Washington Pl)",
+            "Nova Iorque, NY 10011"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1a1941735",
+            "name": "College Cafeteria",
+            "pluralName": "College Cafeterias",
+            "shortName": "Cafeteria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4063,
+          "usersCount": 934,
+          "tipCount": 20
+        },
+        "url": "http://www.nyu.edu",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "4d431511b7a0a1cdcdbc78f8",
+        "name": "NYU Hayden Residence Hall",
+        "contact": {
+          "phone": "2129953070",
+          "formattedPhone": "(212) 995-3070",
+          "twitter": "nyuniversity",
+          "facebook": "103256838688",
+          "facebookUsername": "NYU",
+          "facebookName": "New York University"
+        },
+        "location": {
+          "address": "33 Washington Sq W",
+          "crossStreet": "NYU",
+          "lat": 40.73143774898098,
+          "lng": -73.99920701980591,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.73143774898098,
+              "lng": -73.99920701980591
+            }
+          ],
+          "postalCode": "10011",
+          "cc": "US",
+          "city": "Nova Iorque",
+          "state": "NY",
+          "country": "Estados Unidos",
+          "formattedAddress": [
+            "33 Washington Sq W (NYU)",
+            "Nova Iorque, NY 10011"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1a3941735",
+            "name": "College Residence Hall",
+            "pluralName": "College Residence Halls",
+            "shortName": "Residence Hall",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/residencehall_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 4039,
+          "usersCount": 749,
+          "tipCount": 6
+        },
+        "url": "http://www.nyu.edu",
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": ""
+      }
+    },
+    {
+      "beenHere": 1,
+      "venue": {
+        "id": "54f9d808498eaa73550d399c",
+        "name": "Black Tap",
+        "contact": {
+          "phone": "9176393089",
+          "formattedPhone": "(917) 639-3089",
+          "facebook": "822547591096515",
+          "facebookUsername": "blacktapcraftburgers",
+          "facebookName": "Black Tap Craft Burgers & Beer"
+        },
+        "location": {
+          "address": "529 Broome St",
+          "crossStreet": "btwn Thompson & Sullivan St",
+          "lat": 40.723897,
+          "lng": -74.004221,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 40.723897,
+              "lng": -74.004221
+            }
+          ],
+          "postalCode": "10013",
+          "cc": "US",
+          "city": "Nova Iorque",
+          "state": "NY",
+          "country": "Estados Unidos",
+          "formattedAddress": [
+            "529 Broome St (btwn Thompson & Sullivan St)",
+            "Nova Iorque, NY 10013"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2986,
+          "usersCount": 2325,
+          "tipCount": 168
+        },
+        "url": "http://blacktapnyc.com",
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://blacktapnyc.com/category/food/",
+          "mobileUrl": "http://blacktapnyc.com/category/food/",
+          "externalUrl": "http://blacktapnyc.com/category/food/"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }
+      }
+    }
+  ]
+}
